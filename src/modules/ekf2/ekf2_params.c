@@ -49,7 +49,7 @@
  * @max 50
  * @unit ms
  */
-PARAM_DEFINE_INT32(EKF2_MIN_OBS_DT, 20);
+PARAM_DEFINE_INT32(EKF2_MIN_OBS_DT, 50);
 
 /**
  * Magnetometer measurement delay relative to IMU measurements
